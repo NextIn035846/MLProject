@@ -10,6 +10,9 @@ This project focuses on predicting students' **math scores** based on various fe
 - reading_score
 
   This project implements machine learning algorithms to predict math scores based on relevant features. The goal is to build a predictive model that can assist in understanding the factors influencing math performance.
+![output1](https://github.com/NextIn035846/MLProject/assets/72642100/08fa05e0-8442-41c6-a076-7a4ae4b44702)
+![output2](https://github.com/NextIn035846/MLProject/assets/72642100/6ce1e83e-a73d-4353-8198-643f0e5fbbcf)
+![output3](https://github.com/NextIn035846/MLProject/assets/72642100/2062283b-78f1-4720-89c9-973445f7b1cd)
 ## Project Structure
 
 ```bash
