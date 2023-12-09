@@ -46,8 +46,8 @@ This project focuses on predicting students' **math scores** based on various fe
 ## Clone the repository:
 git clone
 ```bash
-https://github.com/your-username/math-score-prediction.git
-cd math-score-prediction
+https://github.com/NextIn035846/MLProject.git
+cd MLProject.git
 ```
 ## Install dependencies:
 
