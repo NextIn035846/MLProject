@@ -16,7 +16,7 @@ This project focuses on predicting students' **math scores** based on various fe
 ## Project Structure
 
 ```bash
-|-- student_math_score_prediction
+|-- MLProject
     
     |-- notebooks
         |-- data
@@ -65,7 +65,7 @@ Implement the Flask application for prediction using the trained models in the a
 
 Run the Flask app with the command: python app.py.
 
-Access the prediction endpoint at http://localhost:5000/predict with the required input parameters.
+Access the prediction endpoint at http://localhost:5000/predictdata with the required input parameters.
 
 
 ## Benefits
